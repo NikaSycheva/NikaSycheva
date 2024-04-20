@@ -24,11 +24,16 @@
 <img align="left" alt="Gradle" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original-wordmark.svg" />
 <img align="left" alt="Selenium" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Swagger" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
+
 <br />
+<img align="left" alt="Rabbit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original-wordmark.svg" />
 <img align="left" alt="Rabbit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+<br />
+
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-plain-wordmark.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-plain-wordmark.svg" />
 
@@ -38,7 +43,8 @@
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg" />
 <img align="left" alt="Intjj" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" />
 
-
+https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg
+https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-plain-wordmark.svg
 <br />
 ### Мне можно написать сюда:
 
