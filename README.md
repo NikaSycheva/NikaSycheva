@@ -19,9 +19,9 @@
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" style="padding-right:13px;" alt="Jenkins" width="40px" height="40" />
 </p>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original-wordmark.svg" alt="" width="40px" height="60" /> 
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="" width="40px" height="60" />  
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" alt="" width="40px" height="40" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original-wordmark.svg" alt="" width="60px" height="60" /> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="" width="60px" height="60" />  
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" alt="" width="60px" height="60" />
 </p>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg" style="padding-right:10px;" alt="Jira" width="40px" height="40" />
