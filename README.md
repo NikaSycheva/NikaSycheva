@@ -29,13 +29,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-plain-wordmark.svg" style="padding-right:13px;" alt="junit" width="40px" height="40"/>
 </p>
 
-
-<div align="left">
-  <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Bhc2pqZTVveHV6d2cwdDRkY29pNmV4MHEwOXBpNmVuYnMzcGl0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPbnShq1h1IS5FQyPD/giphy.gif"  />
-</div>
-
 ```txt
-SAY YES TO CODE
+SAY YES TO CODE AND BE HAPPY!
 
 ```
 
