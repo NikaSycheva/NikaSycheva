@@ -19,11 +19,12 @@
 
 ### Технологии:
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" />
-<img align="left" alt="Junit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original-wordmark.svg" />
-<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
-<img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" />
+<img align="left" alt="Junit" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" />
+<img align="left" alt="Gradle" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original-wordmark.svg" />
+<img align="left" alt="Selenium" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Swagger" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original-wordmark.svg" />
+<br />
 <img align="left" alt="Rabbit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-plain-wordmark.svg" />
@@ -38,7 +39,7 @@
 <img align="left" alt="Intjj" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" />
 
 
-
+<br />
 ### Мне можно написать сюда:
 
 [<img align="left" alt="NikaSycheva | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
