@@ -1,7 +1,5 @@
-Hi! 👋 My name is Nika
-=====================
-
-I'm AutoQA Java Engineer
+# Hi! 👋 My name is Nika
+ 🎀 QA Automation Engineer (Java) 🎀 
 -----------
 
 <br clear="both">
@@ -10,11 +8,7 @@ I'm AutoQA Java Engineer
   <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ0cWVwYXRyemQxbHI3N2RhenF2eTJvaWwzOGxrMHR2anJ6ZGc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif"  />
 </div>
 
-- 🎀  
-- 🎀
-- 🎀
-- 🎀
-- 🎀 
+
 
 ### Skills
 <p align="left"> 
