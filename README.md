@@ -1,6 +1,6 @@
 # Hi! 👋 My name is Nika
- 🎀 QA Automation Engineer (Java) 🎀 
------------
+
+### 🎀 QA Automation Java Engineer 🎀
 
 <br clear="both">
 
