@@ -1,7 +1,7 @@
-Hi 👋 My name is Nika
+Hi! 👋 My name is Nika
 =====================
 
-🎀 QA Automation JAVA Engineer 🎀
+I'm AutoQA Java Engineer
 -----------
 
 <br clear="both">
@@ -10,11 +10,17 @@ Hi 👋 My name is Nika
   <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ0cWVwYXRyemQxbHI3N2RhenF2eTJvaWwzOGxrMHR2anJ6ZGc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif"  />
 </div>
 
+- 🎀  
+- 🎀
+- 🎀
+- 🎀
+- 🎀 
+
 ### Skills
 <p align="left"> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" " alt="Selenium" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="40" height="40"/> </a>
 </p>
 
