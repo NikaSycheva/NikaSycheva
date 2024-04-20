@@ -26,7 +26,12 @@
 
 
 
+
+
+
 [Telegram]: https://t.me/otcuda_zvuk
-[linkedin]:
+[linkedin]: https://www.linkedin.com/in/otcuda_zvuk
 [instagram]: https://www.instagram.com/otcuda_zvuk/
+
+
 
