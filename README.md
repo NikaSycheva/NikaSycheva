@@ -1,9 +1,13 @@
 # Hi! 👋 My name is Nika
 
 #### 🎀 QA Automation Java 🎀
+```txt
+
 - 2+ years coding api e2e autotests on C# + Specflow(BDD)
 - learning English
-- read books  
+- read books
+
+```
 <br clear="both">
 <div align="left">
   <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ0cWVwYXRyemQxbHI3N2RhenF2eTJvaWwzOGxrMHR2anJ6ZGc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif"  />
