@@ -1,6 +1,6 @@
 # Hi! 👋 My name is Nika
 
-### 🎀 QA Automation Java Engineer 🎀
+#### 🎀 AQA Java 🎀
 
 <br clear="both">
 
@@ -12,19 +12,15 @@
 
 ### Skills
 <p align="left"> 
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a> 
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" alt="java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" style="padding-right:10px;" alt="junit" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;" alt="Selenium" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" style="padding-right:10px;" alt="Swagger" width="40" height="40"/> </a>
 </p>
 
 
 
-<img align="left" alt="Java" width="50px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" />
-<img align="left" alt="Junit" width="50px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" />
-<img align="left" alt="Gradle" width="50px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original-wordmark.svg" />
-<img align="left" alt="Selenium" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
-<img align="left" alt="Swagger" width="50px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original-wordmark.svg" />
+
 <img align="left" alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
 <img align="left" alt="Kafka" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original-wordmark.svg" />
