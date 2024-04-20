@@ -31,25 +31,8 @@
 
 
 ```txt
-@Test
-    public void positiveChangeUserPassTest() {
-        String oldPass = user.getPass();
-        userService.registerUser(user);
-        String token = userService.auth(user).asJwt();
-        String updatedPass = getRandomPassword();
+Возможно, здесь мне захочется написать что-то особенное позже
 
-        userService.updateUserPass(updatedPass, token)
-                .should(hasStatusCode(200))
-                .should(hasMessage("User password successfully changed"));
-
-        user.setPass(updatedPass);
-        token = userService.auth(user)
-                .should(hasStatusCode(200))
-                .asJwt();
-        FullUser updatedUser = userService.getUserInfo(token).as(FullUser.class);
-
-        Assertions.assertNotEquals(oldPass, updatedUser.getPass());
-    }
 ```
 
 
