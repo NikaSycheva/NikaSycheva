@@ -4,20 +4,13 @@ Hi 👋 My name is Nika
 🎀 QA Automation JAVA Engineer 🎀
 -----------
 
-
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ0cWVwYXRyemQxbHI3N2RhenF2eTJvaWwzOGxrMHR2anJ6ZGc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif"  />
 </div>
 
-
-
-# Всем привет! 👋 Я Ника
-
-🎀 **QA Automation JAVA** 🎀
---
-
+### Skills
 <p align="left"> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> </a>
@@ -26,7 +19,6 @@ Hi 👋 My name is Nika
 </p>
 
 
-### Технологии:
 
 <img align="left" alt="Java" width="50px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" />
 <img align="left" alt="Junit" width="50px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" />
