@@ -3,18 +3,13 @@
 #### 🎀 QA Automation Java 🎀
 - 2+ years coding api e2e autotests on C# + Specflow(BDD)
 - learning English
-- read books
-
-[<img align="left" alt="NikaSycheva | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="NikaSycheva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-  
+- read books  
 <br clear="both">
 <div align="left">
   <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ0cWVwYXRyemQxbHI3N2RhenF2eTJvaWwzOGxrMHR2anJ6ZGc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif"  />
 </div>
 
-### Skills:
+### 🛠 Skills:
 <p align="left"> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" style="padding-right:13px;" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" style="padding-right:13px;" alt="junit" width="40" height="40"/> </a>
@@ -35,12 +30,18 @@
 </p>
 
 
-```txt
-Возможно, здесь мне захочется написать что-то особенное позже
+<div align="left">
+  <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Bhc2pqZTVveHV6d2cwdDRkY29pNmV4MHEwOXBpNmVuYnMzcGl0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPbnShq1h1IS5FQyPD/giphy.gif"  />
+</div>
 
+```txt
+SAY YES TO CODE
 
 ```
 
+### Connect with me::
+[<img align="left" alt="NikaSycheva | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
+[<img align="left" alt="NikaSycheva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [Telegram]: https://t.me/otcuda_zvuk
 [instagram]: https://www.instagram.com/otcuda_zvuk/
