@@ -25,12 +25,32 @@
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original-wordmark.svg" style="padding-right:13px;" alt="" width="60px" height="60" /> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original-wordmark.svg" style="padding-right:13px;" alt="" width="60px" height="60" />  
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original-wordmark.svg" alt="" width="60px" height="60" />
-</p>
-<p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40px" height="40" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-plain-wordmark.svg" style="padding-right:13px;" alt="junit" width="40px" height="40"/>
 </p>
 
+
+```txt
+@Test
+    public void positiveChangeUserPassTest() {
+        String oldPass = user.getPass();
+        userService.registerUser(user);
+        String token = userService.auth(user).asJwt();
+        String updatedPass = getRandomPassword();
+
+        userService.updateUserPass(updatedPass, token)
+                .should(hasStatusCode(200))
+                .should(hasMessage("User password successfully changed"));
+
+        user.setPass(updatedPass);
+        token = userService.auth(user)
+                .should(hasStatusCode(200))
+                .asJwt();
+        FullUser updatedUser = userService.getUserInfo(token).as(FullUser.class);
+
+        Assertions.assertNotEquals(oldPass, updatedUser.getPass());
+    }
+```
 
 
 
