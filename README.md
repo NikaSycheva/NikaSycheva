@@ -1,18 +1,26 @@
+Hi 👋 My name is Nika
+=====================
+
+🎀 QA Automation JAVA Engineer 🎀
+-----------
+
+
 <br clear="both">
 
 <div align="center">
   <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ0cWVwYXRyemQxbHI3N2RhenF2eTJvaWwzOGxrMHR2anJ6ZGc1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.gif"  />
 </div>
 
-### Всем привет! 👋 Я Ника
 
-**_QA Automation JAVA_**
+
+# Всем привет! 👋 Я Ника
+
+🎀 **QA Automation JAVA** 🎀
 --
 
 <p align="left"> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" " alt="Selenium" width="40" height="40"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original-wordmark.svg" alt="Swagger" width="40" height="40"/> </a>
 </p>
@@ -45,7 +53,19 @@
 
 
 
+### Контакты:
 
+[<img align="left" alt="NikaSycheva | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
+[<img align="left" alt="NikaSycheva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="NikaSycheva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+
+
+
+[Telegram]: https://t.me/otcuda_zvuk
+[instagram]: https://www.instagram.com/otcuda_zvuk/
 
 
 
