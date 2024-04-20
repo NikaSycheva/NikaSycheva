@@ -17,7 +17,8 @@
 <br />
 
 
-#### Технологии:
+### Технологии:
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" />
 <img align="left" alt="Junit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original-wordmark.svg" />
@@ -37,7 +38,8 @@
 <img align="left" alt="Intjj" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" />
 
 
-#### Мне можно написать сюда:
+
+### Мне можно написать сюда:
 
 [<img align="left" alt="NikaSycheva | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][Telegram]
 [<img align="left" alt="NikaSycheva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
