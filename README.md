@@ -7,7 +7,7 @@
 
 ```txt
 
-- Say YES to code!
+Say YES to code!
 
 ```
 <br clear="both">
