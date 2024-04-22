@@ -6,6 +6,11 @@
 - Say YES to code
 -  ✉️  You can contact me at [qa.nikasycheva@gmail.com](mailto:qa.nikasycheva@gmail.com) and Telegramm [MyProfile](https://t.me/otcuda_zvuk) and Habr[Profile](https://career.habr.com/nikasycheva)
 
+* 🌍  I'm based in Kazan Tatarstan
+* ✉️  You can contact me at [chernikov.semen21@gmail.com](mailto:chernikov.semen21@gmail.com) and Telegramm [MyProfile](https://t.me/TellSamm) and Linkedin [Profile](https://www.linkedin.com/in/semen-chernikov-649a922aa/)
+* 🚀  I'm currently working on [Letual](https://www.letu.ru/)
+* 🧠  I'm learning every day!
+
 ```
 <br clear="both">
 <div align="left">
