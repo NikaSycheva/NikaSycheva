@@ -1,6 +1,12 @@
 # Hi! 👋 My name is Nika
 
 #### 🎀 QA Automation Java 🎀
+
+* 🌍  I'm based in Kazan Tatarstan
+* ✉️  You can contact me at [chernikov.semen21@gmail.com](mailto:chernikov.semen21@gmail.com) and Telegramm [MyProfile](https://t.me/TellSamm) and Linkedin [Profile](https://www.linkedin.com/in/semen-chernikov-649a922aa/)
+* 🚀  I'm currently working on [Letual](https://www.letu.ru/)
+* 🧠  I'm learning every day!
+
 ```txt
 
 - Say YES to code
