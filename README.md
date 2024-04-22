@@ -3,11 +3,11 @@
 #### 🎀 QA Automation Java 🎀
 
 * 🌍  I'm based in Saint- Petersburg, Russia
-* ✉️  You can contact me at [qa.nikasycheva@gmail.com](mailto:qa.nikasycheva@gmail.com) and Telegramm [MyProfile](https://t.me/otcuda_zvuk) and Habr[Profile](https://career.habr.com/nikasycheva)
+* ✉️  You can contact me at [qa.nikasycheva@gmail.com](mailto:qa.nikasycheva@gmail.com) and Telegramm [MyProfile](https://t.me/otcuda_zvuk) and Habr [MyHabrProfile](https://career.habr.com/nikasycheva)
 
 ```txt
 
-- Say YES to code
+- Say YES to code!
 
 ```
 <br clear="both">
